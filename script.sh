@@ -9,7 +9,8 @@ README="/home/pi/Desktop/jq-test/README.md"
 #jq length "$JSONFILE" get length of the json array
 
 echo "| Roll | Name | Batch | Department |" >> "$README"
-
+echo "| --- | --- | --- | --- |" >> "$README"
+echo "| test | test | test | test |" >> "$README"
 git add -A
 git commit -m "test"
 git push
