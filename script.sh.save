@@ -1,5 +1,0 @@
-#! /bin/bash
-
-JSONFILE="/home/pi/Desktop/jq-test/students.json"
-
-echo `q '.[]' | length "$JSONFILE"`
