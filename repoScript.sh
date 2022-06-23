@@ -18,7 +18,7 @@ do
     str+=" | "
     str+=`echo $FORMAT | jq -r ".[$i].Message"`
     str+=" | "
-    str+=`echo $FORMAT | jq ".[$i].Compare_Log"`
+    str+=`echo $FORMAT | jq -r ".[$i].Compare_Log"`
     str+=" |"
     echo $str >> /home/pi/Desktop/jq-test/README.md
     str=""
