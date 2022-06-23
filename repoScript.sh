@@ -6,7 +6,7 @@ FORMAT=`cat "$JSON" | jq '[.[] | {Name: .commit.author.name, Message: .commit.me
 
 echo $FORMAT | jq '.'
 LENGTH=`echo "$FORMAT" | jq length`
-echo "| Name | Message | Changes |" >> /home/pi/Desktop/jq-test/README.md
+echo "| User | Message | Changes |" >> /home/pi/Desktop/jq-test/README.md
 echo "| ---- | ----------- | ---- |" >> /home/pi/Desktop/jq-test/README.md
 str=""
 

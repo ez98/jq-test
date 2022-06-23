@@ -1,4 +1,4 @@
-| Name | Message | Changes |
+| User | Message | Changes |
 | ---- | ----------- | ---- |
 | ez98 | font changes | [ce560a](https://github.com/ez98/Eric-Zacarias.github.io/commit/ce560a36afb8d77dbfe9bbd0adb534fd5a993b7c) |
 | ez98 | add url to shpe logo | [96d540](https://github.com/ez98/Eric-Zacarias.github.io/commit/96d5406e9f71db38a051cf0981f084f51af9d1ca) |
