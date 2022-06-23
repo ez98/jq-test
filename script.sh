@@ -23,7 +23,7 @@ do
     str+="| "    
     str+=`jq ".[$i].roll" "$JSONFILE"`
     str+=" | "
-    str+=`jq ".[$i].name" "$JSONFILE"`
+    str+=`jq ".[$i].name | tr -d '"'" "$JSONFILE"`
     str+=" | "
     str+=`jq ".[$i].batch" "$JSONFILE"`
     str+=" | "
