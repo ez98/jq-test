@@ -23,11 +23,11 @@ do
     str+="| "    
     str+=`jq ".[$i].roll" "$JSONFILE"`
     str+=" | "
-    str+=`jq ".[$i].name | tr -d '"'" "$JSONFILE"`
+    str+=`jq -r ".[$i].name" "$JSONFILE"`
     str+=" | "
     str+=`jq ".[$i].batch" "$JSONFILE"`
     str+=" | "
-    str+=`jq ".[$i].department" "$JSONFILE"`
+    str+=`jq -r ".[$i].department" "$JSONFILE"`
     str+=" |"
     echo "At end ${i}"
     echo $str >> "$README"
@@ -35,6 +35,6 @@ do
 done
 
 
-git add -A
-git commit -m "test"
-git push
+#git add -A
+#git commit -m "test"
+#git push
