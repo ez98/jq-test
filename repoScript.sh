@@ -2,7 +2,7 @@
 
 JSON="/home/pi/Desktop/jq-test/repo.json"
 
-FORMAT=`cat "$JSON" | jq '[.[] | {Name: .commit.author.name, Message: .commit.message, Compare_Log: .html_url}]'`
+FORMAT=`cat "$JSON" | jq '[.[] | {Name: .commit.author.name, Message: .commit.message, Compare_Log: .sha}]'`
 
 echo $FORMAT | jq '.'
 LENGTH=`echo "$FORMAT" | jq length`
