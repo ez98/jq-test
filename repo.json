@@ -1,0 +1,207 @@
+[
+  {
+    "sha": "ce560a36afb8d77dbfe9bbd0adb534fd5a993b7c",
+    "node_id": "C_kwDOGoxOedoAKGNlNTYwYTM2YWZiOGQ3N2RiZmU5YmJkMGFkYjUzNGZkNWE5OTNiN2M",
+    "commit": {
+      "author": {
+        "name": "ez98",
+        "email": "ezacarias@students.prairiestate.edu",
+        "date": "2022-02-12T05:19:15Z"
+      },
+      "committer": {
+        "name": "ez98",
+        "email": "ezacarias@students.prairiestate.edu",
+        "date": "2022-02-12T05:19:15Z"
+      },
+      "message": "font changes",
+      "tree": {
+        "sha": "3fb8b8663b674fec65cbc314ee01cda8b65e7d1d",
+        "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/git/trees/3fb8b8663b674fec65cbc314ee01cda8b65e7d1d"
+      },
+      "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/git/commits/ce560a36afb8d77dbfe9bbd0adb534fd5a993b7c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/ce560a36afb8d77dbfe9bbd0adb534fd5a993b7c",
+    "html_url": "https://github.com/ez98/Eric-Zacarias.github.io/commit/ce560a36afb8d77dbfe9bbd0adb534fd5a993b7c",
+    "comments_url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/ce560a36afb8d77dbfe9bbd0adb534fd5a993b7c/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "96d5406e9f71db38a051cf0981f084f51af9d1ca",
+        "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/96d5406e9f71db38a051cf0981f084f51af9d1ca",
+        "html_url": "https://github.com/ez98/Eric-Zacarias.github.io/commit/96d5406e9f71db38a051cf0981f084f51af9d1ca"
+      }
+    ]
+  },
+  {
+    "sha": "96d5406e9f71db38a051cf0981f084f51af9d1ca",
+    "node_id": "C_kwDOGoxOedoAKDk2ZDU0MDZlOWY3MWRiMzhhMDUxY2YwOTgxZjA4NGY1MWFmOWQxY2E",
+    "commit": {
+      "author": {
+        "name": "ez98",
+        "email": "ezacarias@students.prairiestate.edu",
+        "date": "2022-02-12T05:07:56Z"
+      },
+      "committer": {
+        "name": "ez98",
+        "email": "ezacarias@students.prairiestate.edu",
+        "date": "2022-02-12T05:07:56Z"
+      },
+      "message": "add url to shpe logo",
+      "tree": {
+        "sha": "cd20a6efded268431725ca44a5d0fed7334f71ae",
+        "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/git/trees/cd20a6efded268431725ca44a5d0fed7334f71ae"
+      },
+      "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/git/commits/96d5406e9f71db38a051cf0981f084f51af9d1ca",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/96d5406e9f71db38a051cf0981f084f51af9d1ca",
+    "html_url": "https://github.com/ez98/Eric-Zacarias.github.io/commit/96d5406e9f71db38a051cf0981f084f51af9d1ca",
+    "comments_url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/96d5406e9f71db38a051cf0981f084f51af9d1ca/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "6fefb799b27adb0546e5d9f53140772aaabe2b14",
+        "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/6fefb799b27adb0546e5d9f53140772aaabe2b14",
+        "html_url": "https://github.com/ez98/Eric-Zacarias.github.io/commit/6fefb799b27adb0546e5d9f53140772aaabe2b14"
+      }
+    ]
+  },
+  {
+    "sha": "6fefb799b27adb0546e5d9f53140772aaabe2b14",
+    "node_id": "C_kwDOGoxOedoAKDZmZWZiNzk5YjI3YWRiMDU0NmU1ZDlmNTMxNDA3NzJhYWFiZTJiMTQ",
+    "commit": {
+      "author": {
+        "name": "ez98",
+        "email": "ezacarias@students.prairiestate.edu",
+        "date": "2022-02-12T05:04:26Z"
+      },
+      "committer": {
+        "name": "ez98",
+        "email": "ezacarias@students.prairiestate.edu",
+        "date": "2022-02-12T05:04:26Z"
+      },
+      "message": "new about",
+      "tree": {
+        "sha": "109bf37353e4c060aabfaa4eddbb0d18abad6946",
+        "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/git/trees/109bf37353e4c060aabfaa4eddbb0d18abad6946"
+      },
+      "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/git/commits/6fefb799b27adb0546e5d9f53140772aaabe2b14",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/6fefb799b27adb0546e5d9f53140772aaabe2b14",
+    "html_url": "https://github.com/ez98/Eric-Zacarias.github.io/commit/6fefb799b27adb0546e5d9f53140772aaabe2b14",
+    "comments_url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/6fefb799b27adb0546e5d9f53140772aaabe2b14/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "e856b2628f9c1dd751ab7e38ba3801d90c16cbf1",
+        "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/e856b2628f9c1dd751ab7e38ba3801d90c16cbf1",
+        "html_url": "https://github.com/ez98/Eric-Zacarias.github.io/commit/e856b2628f9c1dd751ab7e38ba3801d90c16cbf1"
+      }
+    ]
+  },
+  {
+    "sha": "e856b2628f9c1dd751ab7e38ba3801d90c16cbf1",
+    "node_id": "C_kwDOGoxOedoAKGU4NTZiMjYyOGY5YzFkZDc1MWFiN2UzOGJhMzgwMWQ5MGMxNmNiZjE",
+    "commit": {
+      "author": {
+        "name": "ez98",
+        "email": "ezacarias@students.prairiestate.edu",
+        "date": "2022-02-12T04:48:31Z"
+      },
+      "committer": {
+        "name": "ez98",
+        "email": "ezacarias@students.prairiestate.edu",
+        "date": "2022-02-12T04:48:31Z"
+      },
+      "message": "updated mobile margins",
+      "tree": {
+        "sha": "efc67c6464a48535e732d9338008f9887114e80a",
+        "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/git/trees/efc67c6464a48535e732d9338008f9887114e80a"
+      },
+      "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/git/commits/e856b2628f9c1dd751ab7e38ba3801d90c16cbf1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/e856b2628f9c1dd751ab7e38ba3801d90c16cbf1",
+    "html_url": "https://github.com/ez98/Eric-Zacarias.github.io/commit/e856b2628f9c1dd751ab7e38ba3801d90c16cbf1",
+    "comments_url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/e856b2628f9c1dd751ab7e38ba3801d90c16cbf1/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "ef49f55246369d5fb306d1908b607373f9637829",
+        "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/ef49f55246369d5fb306d1908b607373f9637829",
+        "html_url": "https://github.com/ez98/Eric-Zacarias.github.io/commit/ef49f55246369d5fb306d1908b607373f9637829"
+      }
+    ]
+  },
+  {
+    "sha": "ef49f55246369d5fb306d1908b607373f9637829",
+    "node_id": "C_kwDOGoxOedoAKGVmNDlmNTUyNDYzNjlkNWZiMzA2ZDE5MDhiNjA3MzczZjk2Mzc4Mjk",
+    "commit": {
+      "author": {
+        "name": "ez98",
+        "email": "ezacarias@students.prairiestate.edu",
+        "date": "2022-02-12T04:04:16Z"
+      },
+      "committer": {
+        "name": "ez98",
+        "email": "ezacarias@students.prairiestate.edu",
+        "date": "2022-02-12T04:04:16Z"
+      },
+      "message": "dd",
+      "tree": {
+        "sha": "33cb5ed3dd29cec6dcb420dc8712d1f91882ce02",
+        "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/git/trees/33cb5ed3dd29cec6dcb420dc8712d1f91882ce02"
+      },
+      "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/git/commits/ef49f55246369d5fb306d1908b607373f9637829",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/ef49f55246369d5fb306d1908b607373f9637829",
+    "html_url": "https://github.com/ez98/Eric-Zacarias.github.io/commit/ef49f55246369d5fb306d1908b607373f9637829",
+    "comments_url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/ef49f55246369d5fb306d1908b607373f9637829/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "bda671bdf3fbdf9b0c24d0c9962f4c79c7e4eb2d",
+        "url": "https://api.github.com/repos/ez98/Eric-Zacarias.github.io/commits/bda671bdf3fbdf9b0c24d0c9962f4c79c7e4eb2d",
+        "html_url": "https://github.com/ez98/Eric-Zacarias.github.io/commit/bda671bdf3fbdf9b0c24d0c9962f4c79c7e4eb2d"
+      }
+    ]
+  }
+]
